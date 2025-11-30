@@ -1,4 +1,4 @@
-# Command Line Rabbit Hole
+# Command Line Rabbit Holes
 ## Welcome To Commmand Line Rabbit Holes
 
 This is a text based game about going through the rabbit holes of the command line fighting monsters collecting various items.
